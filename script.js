@@ -12,5 +12,3 @@ window.confirm = message => {
     }
     return realConfirm(message);
 };
-
-console.log("KIT Ilias session refresher injected successfully")
