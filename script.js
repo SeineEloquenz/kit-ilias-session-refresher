@@ -5,7 +5,6 @@ const confirmFilters = [
 ];
 
 window.confirm = message => {
-    console.log(message)
     for (const index in confirmFilters) {
         if (message.startsWith(confirmFilters[index])) {
             return true;
