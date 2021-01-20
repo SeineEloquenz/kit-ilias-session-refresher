@@ -1,0 +1,16 @@
+{
+  "name": "KIT Ilias Session Refresher",
+  "author": "Alexander Linder",
+  "version": "1.0",
+  "description": "Automatically responds to session reminders by the KIT Ilias system",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["https://ilias.studium.kit.edu/*"],
+    "run_at": "document_idle"
+  }],
+  "web_accessible_resources": ["script.js"],
+  "manifest_version": 2
+}
