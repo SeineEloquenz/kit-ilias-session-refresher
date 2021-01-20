@@ -5,10 +5,8 @@ const confirmFilters = [
 ];
 
 window.confirm = message => {
-    console.log("entered fake confirm")
     console.log(message)
     for (const index in confirmFilters) {
-        console.log("loop element: " + confirmFilters[index])
         if (message.startsWith(confirmFilters[index])) {
             return true;
         }
@@ -16,4 +14,4 @@ window.confirm = message => {
     return realConfirm(message);
 };
 
-console.log("custom window.confirm injected")
+console.log("KIT Ilias session refresher injected successfully")
