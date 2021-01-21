@@ -1,4 +1,9 @@
 {
+  "applications": {
+    "gecko": {
+      "id": "kit-ilias-session-refresher@mondcarion.group"
+    }
+  },
   "name": "KIT Ilias Session Refresher",
   "author": "Alexander Linder",
   "version": "1.0",
