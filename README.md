@@ -4,11 +4,6 @@
 [![Chrome Webstore Link](https://img.shields.io/chrome-web-store/v/lifdgingcnbhbalcacodcicldbkfdpln)](https://chrome.google.com/webstore/detail/kit-ilias-session-refresh/lifdgingcnbhbalcacodcicldbkfdpln)
 [![Chrome Webstore](https://img.shields.io/chrome-web-store/rating/lifdgingcnbhbalcacodcicldbkfdpln)](https://chrome.google.com/webstore/detail/kit-ilias-session-refresh/lifdgingcnbhbalcacodcicldbkfdpln)
 [![Chrome Webstore](https://img.shields.io/chrome-web-store/users/lifdgingcnbhbalcacodcicldbkfdpln)](https://chrome.google.com/webstore/detail/kit-ilias-session-refresh/lifdgingcnbhbalcacodcicldbkfdpln)
-<br>
-[![Mozilla Add-on](https://img.shields.io/amo/v/kit-ilias-session-refresher@mondcarion.group)](https://addons.mozilla.org/de/firefox/addon/kit-ilias-session-refresher/)
-[![Mozilla Add-on](https://img.shields.io/amo/rating/kit-ilias-session-refresher@mondcarion.group)](https://addons.mozilla.org/de/firefox/addon/kit-ilias-session-refresher/)
-[![Mozilla Add-on](https://img.shields.io/amo/users/kit-ilias-session-refresher@mondcarion.group)](https://addons.mozilla.org/de/firefox/addon/kit-ilias-session-refresher/)
-
 
 This chrome and firefox extension prevents the KIT Ilias from logging you out automatically due to inactivity.
 
